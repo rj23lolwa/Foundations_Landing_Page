@@ -13,6 +13,10 @@ This is a simple landing page built using **HTML** and **CSS**. It was created a
 
 ![Screenshot](./images/ss.png)
 
+## Preview
+
+- This is the live preview of my [Landing Page](https://rj23lolwa.github.io/Foundations_Landing_Page/)
+
 ## Acknowledgement
 
 The Odin Project
