@@ -9,6 +9,10 @@ This is a simple landing page built using **HTML** and **CSS**. It was created a
 - Image styling with rounded borders
 - Semantic HTML structure
 
+## Screenshot
+
+![Screenshot](./images/ss.png)
+
 ## Acknowledgement
 
 The Odin Project
