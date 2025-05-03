@@ -1,0 +1,241 @@
+body {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+header {
+    
+    background-color: #1f2937;
+    padding: 16px 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+.content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+#hero {
+    background-color: #1f2937;
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 48px;
+    padding: 65px 200px;
+    padding-top: 32px;
+}
+
+.left {
+    padding-top: 8px;
+    padding-bottom: 24px;
+   
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    margin-bottom: 0%;
+    
+}
+
+.subtext {
+   font-size: 18px;
+   color: #E5E7EB;
+   padding-bottom: 8px;
+   padding-left: 8px;
+}
+
+.image1 {
+   
+    min-width: 200px;
+    height: auto;
+    flex: 1 1 0;
+}
+
+.img1{
+    max-width: 100%;
+    height: auto;
+    border: 2px solid white;
+
+}
+
+.buttons1 button {
+   background-color: #3882F6;
+   color: #F9FAF8;
+   padding: 8px 24px;
+   border-radius: 8px;
+   
+}
+
+
+.info {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    padding-left: 300px;
+    padding-right:300px;
+    
+}
+
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.image2 {
+    display: flex;
+    gap: 48px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.huh img{
+   
+    width: 100px;
+    
+    border: 4px solid skyblue;
+    border-radius: 8px;
+    
+}
+
+.imgbox {
+    min-height: 100px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 72px 300px;
+
+}
+
+.quotation {
+    font-size: 36px;
+    font-style: italic;
+    color: #62656b;
+    font-weight: lighter;
+    padding-bottom: 24px;
+}
+
+.author {
+    text-align: right;
+    font-size: 24px;
+    color: black;
+    font-weight: 700;
+}
+.signup {
+    flex-grow: 1;
+    padding: 100px 300px;
+}
+
+.signupbox {
+    background-color: #3882F6;
+    border-radius: 14px;
+    padding: 65px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.signup1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 8px;
+}
+.buttons2 {
+    display: flex;
+    align-items: center;
+}
+
+.buttons2 button {
+    border: 2px solid white;
+    background-color: #3882F6;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 16px;
+    
+}
+
+.action {
+    font-size: 24px;
+    color:#F9FAF8;
+    font-weight: 700;
+}
+
+.details {
+    font-size: 18px;
+    color: #E5E7EB;
+    
+}
+footer {
+  background-color: #1f2937 ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #F9FAF8;
+}
+
+ul {
+    
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+
+.text {
+ font-size: 18px;
+ color: #E5E7EB;
+}
+
+.text1{
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 86px;
+}
+
+button {
+    transition: transform 0.1s ease, box-shadow 0.1s ease;
+    cursor: pointer;
+  }
+  
+  button:active {
+    transform: scale(0.97);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  }
+  
