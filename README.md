@@ -15,7 +15,7 @@ This is a simple landing page built using **HTML** and **CSS**. It was created a
 
 ## Preview
 
-- This is the live preview of my [Landing Page](https://rj23lolwa.github.io/Foundations_Landing_Page/)
+- This is the live preview of my [Landing Page](https://rj23dev.github.io/Foundations_Landing_Page/)
 
 ## Acknowledgement
 
