@@ -23,4 +23,4 @@ The Odin Project
 
 ## Image Credit
 
-Images are generated using ChatGpt and GrokAI 
+Images are generated using ChatGpt and GrokAI.
